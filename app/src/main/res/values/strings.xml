@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PracticeTabs</string>
+    <string name="read">Read</string>
+    <string name="write">Write</string>
+    <string name="listen">Listen</string>
+
+    <string name="listenfragment">listenFragment</string>
+    <string name="readfragment">readFragment</string>
+    <string name="writefragment">writeFragment</string>
+</resources>
